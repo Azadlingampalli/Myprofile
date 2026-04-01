@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MY </title>
+	 <link rel="icon" href="images.png">
+	<style>
+	#header{
+		padding: 10px;
+		 background: #a7b2d1;
+		 border: 2px solid black;
+		border-radius:10px;
+		
+	}
+	
+	.pro{
+		padding: 20px;
+	 	width: 1420px;
+		background: #9edbf0;
+		border: 2px solid black;
+	  	border-radius: 20px;
+	}
+	#personal{
+		
+		    padding: 20px;
+		    width: 1420px;
+		    background: #9edbf0;
+		    border: 2px solid black;
+		    border-radius: 20px;
+	}
+	
+	#career{
+		
+		    padding: 20px;
+		    width: 1420px;
+		    background: #9edbf0;
+		    border: 2px solid black;
+		    border-radius: 20px;
+	}
+	
+	#education{
+		
+		    padding: 20px;
+		    width: 1420px;
+		    background: #9edbf0;
+		    border: 2px solid black;
+		    border-radius: 20px;
+	}
+	
+	#skill{
+		
+		    padding: 20px;
+		    width: 1420px;
+		    background: #9edbf0;
+		    border: 2px solid black;
+		    border-radius: 20px;
+	}
+	#lang{
+		
+		    padding: 20px;
+		    width: 1420px;
+		    background: #9edbf0;
+		    border: 2px solid black;
+		    border-radius: 20px;
+	}
+	#exp{
+		
+		    padding: 20px;
+		    width: 1420px;
+		    background: #9edbf0;
+		    border: 2px solid black;
+		    border-radius: 20px;
+	}
+	#deeee{
+		
+		    padding: 20px;
+		    width: 1420px;
+		    background: #9edbf0;
+		    border: 2px solid black;
+		    border-radius: 20px;
+	}
+	
+	
+	}
+	
+	</style>
+</head>
+	<header>
+		<div id="header">
+		<a style="padding-right:20px" href="#personal">personaldetails</a>
+		<a style="margin-left:40px;" href="#career">career</a>
+		<a style="margin-left:40px;" href="#education">QUALIFICATION</a>
+		<a style="margin-left:40px;" href="#exp">EXPERIENCE</a>
+		<a style="margin-left:40px;" href="#skill">skills</a>
+		<a style="margin-left:40px;" href="#lang">languages</a>
+		<a style="margin-left:40px;" href="#deeee">DECLARATION</a>
+		</div>
+	</header>
+	<main>
+		<body>
+			<br>
+			<div class="pro">
+				<center><h1 style=" "> <i>Welcome to my portfolio </i> </h2></center>
+				<hr>
+				</div>
+				<br>
+			
+			
+			<div id="personal">
+				<h2><u>Personal Details :</u></h2>
+				<img  src="me.png" width="200" style="float:right" >
+					<p><b style="color:red">Name:</b><i>Azad Lingampalli</i><p>
+					
+					<p><b>Phn no:</b><i>7995657626</i><p>
+					<p><b>email:</b><i>azadlingampalli18@gmail.com</i><p>
+					<p><b>Address:</b><i>pasra,Mulugu ,Telangana ,506403 </i><p>
+				<hr>
+			</div>	
+			<br>
+			<div id="career">
+				<h2> <u>career objective</u></h2>
+				<p><i> "A dedicated and adaptable computer science student with a strong interest in learning by doing.
+			Passionate about building practical solutions and consistently enhancing skills in emerging
+			technologies. Eager to contribute to real-world projects, gain hands-on experience, and grow
+			within fast-paced and evolving technical environment."</i></p>
+				
+				<hr>
+			</div>
+			<br>
+			<div id="education">
+				<h2><u>EDUCATION QUALIFICATION</u></h2>
+				
+				<table border=5>
+					<tr>
+						<th>DEGREE/COURSE</th>
+						<th>UNIVERSITY/BOARD</th>
+						<th>PERCENTAGE/CGPA</th>
+						<th>YEAR OF PASSING</th>
+					</tr>
+					<tr>
+						<td>B.Tech in COMPUTER SCIENCE ENGINEERING</td>
+						<td>RAJIV GANDHI UNIVERSITY OF KNOWLEDGE TECHNOLOGIES,BASAR</td>
+						<td>PURSUING</td>
+						<td>2028</td>
+					</tr>
+					<tr>
+						<td>PRE-UNIVERSITY COURSE</td>
+						<td>RAJIV GANDHI UNIVERSITY OF KNOWLEDGE TECHNOLOGIES,BASAR</td>
+						<td>9.05</td>
+						<td>2024</td>
+					</tr>
+					<tr>
+						<td>SSC</td>
+						<td>TS MODEL SCHOOL,CHALVAI</td>
+						<td>9.8</td>
+						<td>2022</td>
+					</tr>
+				</table>
+			
+				<hr>
+			</div>
+			<br>
+			<div id="skill">
+				 <h2><u>SKILLs</u></h2>
+						<dd><h3>PROGRAMMING LANGUAGES</h3>
+						<ul type="square">
+							<li>C(programming for problem solving )</i>
+							<li>PYTHON(Basics)</li>
+							<li>HTML and CSS</li>
+							<li>JAVA PROGRAMMING</li>
+							</ul>
+							</dd>
+						<dd><h3>SOFT SKILLS</h3>
+						<ul>
+							<li>Communication skills</li>
+							<li>Problem solving</li>
+							<li>Logical Thinking</li>
+							<li>Time Management</li>
+						
+					</ul>
+					</dd>
+						
+				
+				
+				<hr>
+				
+				</div>
+				
+			<br>
+			<div id="lang">
+				<h2><u>LANGUAGES</u></h2>
+				<ol>
+					<li>Telugu</li>
+					<li>English</li>
+				</ol>
+				<hr>
+			</div>
+			<br>
+			
+			<div id="exp">
+				<h2><u>EXPERIENCE</u></h2>
+				<ul>
+					<li><i>core team volunteer at HOPE HOUSE with skills in negotiation,team collaboration,and budgeting</i></li>
+					<li><i>Student Co-ordinator of Bioscience department in Antahpragnya TechFest</i></li>
+					<li><i>Member in EventMagement Team (Antahpragnya TechFest)</i></li>
+				</ul>
+				<hr>
+			</div>
+			<br>
+			<div id="deeee">
+				<h3>DECLARATION</h3>
+				<!--<marquee align="bottom" loop="infinite">-->
+				<p><i>I hereby declare that above furnished details are correct to the best of my knowledge</i></p>
+				<!--</marquee>-->
+				
+				
+			</div>	
+		</body>
+	</main>
+	<footer>
+		<marquee align="bottom" loop="infinite" behavior="alternate"><p>@this is my profile</p></marquee>
+	</footer>	
+
+</html>
